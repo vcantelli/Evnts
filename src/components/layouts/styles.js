@@ -1,9 +1,9 @@
 export default {
-    universal:{
+  universal: {
 
-    },
-    home:{
-        background:'#f9f9f9', 
-        border:'1px solid #ddd'
-    }       
+  },
+  home: {
+    background: '#f9f9f9',
+    border: '1px solid #ddd'
+  }
 }

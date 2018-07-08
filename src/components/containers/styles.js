@@ -1,17 +1,16 @@
 export default {
-    universal:{
+  universal: {
 
+  },
+
+  detail: {
+    detailBox: {
+      padding: 12,
+      background: '#f9f9f9',
+      border: '1px solid #ddd'
     },
-
-    detail:{
-        detailBox:{
-            padding:12, 
-            background:'#f9f9f9', 
-            border:'1px solid #ddd'
-        },
-        detailList:{
-            listStyleType:'none'
-        }
+    detailList: {
+      listStyleType: 'none'
     }
-       
+  }
 }

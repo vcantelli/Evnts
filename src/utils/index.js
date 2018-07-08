@@ -1,5 +1,3 @@
-import APIManager from "./APIManager"
+import APIManager from './APIManager'
 
-export {
-    APIManager
-}
+export { APIManager }
